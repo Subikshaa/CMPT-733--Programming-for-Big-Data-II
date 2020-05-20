@@ -1,0 +1,7 @@
+Dear Mr. Nick,
+
+I appreciate your timely submission of results. The results look good but I have a few suggestions to make. I would like to see how the results would change if the number of groups and closeness between points vary. Can you try different values and kindly let me know how the results change?
+Thank you
+
+Best Regards,
+Subikshaa Senthilkumar
